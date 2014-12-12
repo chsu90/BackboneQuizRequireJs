@@ -1,8 +1,10 @@
 BackboneQuizRequireJs
 =====================
 
-This quiz app was built with
+This quiz app was built with:
+
 HTML.
+
 CSS.
 
 Javascript.
