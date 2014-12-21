@@ -3,7 +3,7 @@ BackboneQuizRequireJs
 
 This quiz app was built with:
 
-HTML.
+<li>HTML.
 
 CSS.
 
