@@ -1,6 +1,6 @@
 body {
     padding-top: 70px;
-    background-image: url("https://cloud.githubusercontent.com/assets/7455517/5406206/0569d198-8165-11e4-8bf7-a3935f05a909.jpg");
+    background-image: url("https://cloud.githubusercontent.com/assets/7455517/5870577/8f846726-a285-11e4-875c-d3e0f5b46c00.jpg");
 }
 
 .display-none {
@@ -24,16 +24,15 @@ body {
 
 .trans-box {
     background-color: #ffffff;
-    border: 1px solid black;
-    opacity: 0.8;
-    filter: alpha(opacity=80); /* For IE8 and earlier */
+    opacity: 0.75;
+    filter: alpha(opacity=75); /* For IE8 and earlier */
     padding: 10px 35px 35px 35px;
     height: 492px;
 }
 
 .navbar {
-    opacity: .8;
-    filter: alpha(opacity=80); /* For IE8 and earlier */
+    opacity: .75;
+    filter: alpha(opacity=75); /* For IE8 and earlier */
 }
 
 input[name="choices"] {
@@ -56,3 +55,4 @@ a:focus, a:active {
     border: 0;
     outline : 0;
 }
+
