@@ -9,7 +9,7 @@ Cookies and the localStorage object: to remember the user if the page is reloade
 
 Ajax: for loading all quiz questions from package.json
 
-Backbone.js: for more organized code
+Backbone.js: for more organized code and to implement a router
 
 RequireJS: to modularize my code and to load scripts
 
