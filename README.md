@@ -15,7 +15,7 @@ RequireJS: to modularize my code and to load scripts
 
 RequireJS text plugin: to load text templates
 
-Twitter Bootstrap: for cleaner styling and changing the nav bar if window width is decreased
+Twitter Bootstrap: for cleaner styling
 
 HTML
 
